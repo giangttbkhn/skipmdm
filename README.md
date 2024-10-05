@@ -1,1 +1,1 @@
-curl https://raw.githubusercontent.com/tindoapplehn/bypass-mdm/main/bypass-mdm.sh -o test.sh && chmod +x ./test.sh && ./test.sh
+curl https://raw.githubusercontent.com/giangttbkhn/skipmdm/master/bypass-mdm.sh -o test.sh && chmod +x ./test.sh && ./test.sh
